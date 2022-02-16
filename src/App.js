@@ -1,7 +1,9 @@
-import computer from './computer.png'
+import Computer from "./components/Computer";
 
 function App() {
-  return <img src={computer} alt='computer' />
+  return (
+    <Computer />
+  )
 }
 
 export default App;
