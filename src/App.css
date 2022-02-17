@@ -1,5 +1,9 @@
 .App {
   background-color: aqua;
-  background-image: url(./computer.png);
+}
+
+.Computer {
+  height: 1000px;
+  background-repeat: no-repeat;
 }
 
